@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [19/Aug/2022:23:47:46 +0000] "GET /web.jars/jquery/1.9.1/jquery/jquery.min.js HTTP/1.1" 404 1035 http-bio-8080-exec-1 2
+0:0:0:0:0:0:0:1 - - [19/Aug/2022:23:47:46 +0000] "GET /web.jars/bootstrap/3.3.6/js/bootstrap.min.js HTTP/1.1" 404 1039 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [19/Aug/2022:23:47:46 +0000] "GET /student.do HTTP/1.1" 500 4027 http-bio-8080-exec-2 2375
+0:0:0:0:0:0:0:1 - - [19/Aug/2022:23:58:50 +0000] "GET /student.do HTTP/1.1" 500 4078 http-bio-8080-exec-2 31722
+0:0:0:0:0:0:0:1 - - [19/Aug/2022:23:59:26 +0000] "GET /student.do HTTP/1.1" 500 4078 http-bio-8080-exec-4 13
+0:0:0:0:0:0:0:1 - - [19/Aug/2022:23:59:26 +0000] "GET /web.jars/jquery/1.9.1/jquery/jquery.min.js HTTP/1.1" 404 1035 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [19/Aug/2022:23:59:26 +0000] "GET /web.jars/bootstrap/3.3.6/js/bootstrap.min.js HTTP/1.1" 404 1039 http-bio-8080-exec-5 1
